@@ -29,9 +29,10 @@
  
   新型コロナウイルス感染拡大を防ぐために、厚生労働省がリリースした「接触確認アプリ」の普及を推進しています。こちらの画像を印刷して掲示のご協力をお願いいたします。
   
-  <img src="img/cocoa_001.jpg" width="100px" />
   
-  <img src="img/cocoa_002.jpg" width="100px" />
+  <a href="img/cocoa_001.jpg"><img src="img/cocoa_001.jpg" width="300px" /></a>
+  
+  <a href="img/cocoa_002.jpg"><img src="img/cocoa_002.jpg" width="300px" /></a>
 
 ## 参加者募集
 基本はslackで、コミュニケーションをとって進めています。たまに意識合わせやディスカッションのためにビデオ会議もすることがあります。
