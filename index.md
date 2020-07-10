@@ -31,7 +31,6 @@
   
   
   <a href="img/cocoa_001.jpg"><img src="img/cocoa_001.jpg" width="300px" /></a>
-  
   <a href="img/cocoa_002.jpg"><img src="img/cocoa_002.jpg" width="300px" /></a>
 
 ## 参加者募集
