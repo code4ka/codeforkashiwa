@@ -22,7 +22,7 @@
 
 ## Our Project
 
-| <a href="void19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
+| <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
 
 ## New Column
  - 「接触確認アプリ」普及活動
