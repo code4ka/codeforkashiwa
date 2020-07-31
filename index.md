@@ -25,6 +25,11 @@
 | <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
 
 ## New Column
+ - LINE bot
+  
+  新規陽性者の情報が出たときにLINEチャットボットでお知らせします
+  <a href="https://line.me/R/ti/p/%40336cfsja?fbclid=IwAR09NRHB3b8V4Os7SQ5HIpl4eoWcx-aU_2rXz8i9ga7m6gYEnF4J0-juWoI&h=AT0Z5mzyayHxGY0jmOSI57JRnxXUD0D4mJkBd9NwE-XQEH1g5hqYOZUg1i4jBq3bWvXKpt_ugGA64Ceo-X97rsaNGL0FOs3ILUNy_soYajYCYpqOQH5MREQ1OwfyVcewiuhmYAdlXNdCvdEIoLgzhdS7CZRio1WRWA">ここから登録</a>
+   
  - 「接触確認アプリ」普及活動
  
   新型コロナウイルス感染拡大を防ぐために、厚生労働省がリリースした「接触確認アプリ」の普及を推進しています。こちらの画像を印刷して掲示のご協力をお願いいたします。
