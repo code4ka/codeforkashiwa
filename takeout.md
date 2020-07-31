@@ -7,8 +7,10 @@
 
 ## スマホアプリ
 [WEB App]:https://www.google.com/maps/d/u/0/viewer?mid=1ljrSC5fKslSqmQ3aou48ES9obRUx27vN&ll=35.861888741803305%2C139.97377189419592&z=13
-### iOS App
+### <a href="https://apps.apple.com/jp/app/%E3%83%86%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E6%9F%8F/id1507544038">iOS App</a>
 ### Android App
+
+### <a href="https://takeout-kashiwa.glideapp.io">WEBアプリ</a>
 
 ## Google マイマップ 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ljrSC5fKslSqmQ3aou48ES9obRUx27vN" width="100%" height="600"></iframe>
