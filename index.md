@@ -18,16 +18,20 @@
 柏に住む人、柏に来る人、柏で働く人のために、地域サービスにアクセスしやすいWebシステムやアプリの制作をします。スピードのある対応を行うために独自のサービスを作り、このサービスで集められたデータは、公開し幅広く活用される「オープンデータ」を提供します。
 
 ### Civic Techとは？
-シビック（Civic：市民）とテック（Tech：テクノロジー）をかけあわせた造語。市民自身が、テクノロジーを活用して、行政サービスの問題やや社会課題を解決する取り組みをいう。
+シビック（Civic：市民）とテック（Tech：テクノロジー）をかけあわせた造語。市民自身が、テクノロジーを活用して、行政サービスの問題や社会課題を解決する取り組みをいう。
 
 ## Our Project
 
 | <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
 
 ## New Column
- - LINE bot
+ - Twitter 新規陽性者お知らせ
   
-  新規陽性者の情報が出たときにLINEチャットボットでお知らせします
+  Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
+  <a href="https://twitter.com/code4kashiwa">@code4kashiwa</a>
+  
+ - LINE 新規陽性者お知らせ
+  新規陽性者の情報が出たときにLINEチャットボットでお知らせします (現在登録者が増加し、無料枠を超えてしまい、通知ができない状況になっています。Twitterをご利用ください。)
   <a href="https://line.me/R/ti/p/%40336cfsja?fbclid=IwAR09NRHB3b8V4Os7SQ5HIpl4eoWcx-aU_2rXz8i9ga7m6gYEnF4J0-juWoI&h=AT0Z5mzyayHxGY0jmOSI57JRnxXUD0D4mJkBd9NwE-XQEH1g5hqYOZUg1i4jBq3bWvXKpt_ugGA64Ceo-X97rsaNGL0FOs3ILUNy_soYajYCYpqOQH5MREQ1OwfyVcewiuhmYAdlXNdCvdEIoLgzhdS7CZRio1WRWA">ここから登録</a>
    
  - 「接触確認アプリ」普及活動
