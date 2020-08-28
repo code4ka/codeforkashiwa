@@ -31,6 +31,7 @@
   <a href="https://twitter.com/code4kashiwa">@code4kashiwa</a>
   
  - LINE 新規陽性者お知らせ
+ 
   新規陽性者の情報が出たときにLINEチャットボットでお知らせします (現在登録者が増加し、無料枠を超えてしまい、通知ができない状況になっています。Twitterをご利用ください。)
   <a href="https://line.me/R/ti/p/%40336cfsja?fbclid=IwAR09NRHB3b8V4Os7SQ5HIpl4eoWcx-aU_2rXz8i9ga7m6gYEnF4J0-juWoI&h=AT0Z5mzyayHxGY0jmOSI57JRnxXUD0D4mJkBd9NwE-XQEH1g5hqYOZUg1i4jBq3bWvXKpt_ugGA64Ceo-X97rsaNGL0FOs3ILUNy_soYajYCYpqOQH5MREQ1OwfyVcewiuhmYAdlXNdCvdEIoLgzhdS7CZRio1WRWA">ここから登録</a>
    
