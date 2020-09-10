@@ -22,8 +22,10 @@
 
 ## Our Project
 
-| <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
-|<a href="5374"> ![5374.jp](img/ogp.png)</a>|
+<table>
+<tr><td style="20%"> <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a></td><td> <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> </td></tr>
+<tr><td  style="20%"><a href="5374"> ![5374.jp](img/ogp.png)</a></td></tr>
+</table>
 ## New Column
  - 5374.jp ゴミ出しカレンダー
    
