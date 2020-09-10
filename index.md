@@ -23,8 +23,14 @@
 ## Our Project
 
 | <a href="covid19"> ![新型コロナウイルス質問bot](img/bot.png)</a>| <a href="takeout"> ![テイクアウトマップ柏](img/icon_logo_feature.png) </a> |
-
+|<a href="5374"> ![5374.jp](img/ogp.png)</a>|
 ## New Column
+ - 5374.jp ゴミ出しカレンダー
+   
+  石川県金沢市で活動されているCode for Kanazawaのプロジェクト「5374.jp」を柏市と我孫子市版のローカライズ版を作成しました。
+  <a href="https://code4ka.github.io/5374.ksw/">柏市版</a>
+  <a href="https://code4ka.github.io/5374/">我孫子市版</a>
+  
  - Twitter 新規陽性者お知らせ
   
   Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
