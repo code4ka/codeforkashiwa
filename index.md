@@ -28,7 +28,9 @@
 </table>
 ## New Column
  - 第21回千葉県知事選挙期日前投票所MAP in 柏
-    
+    千葉県知事選挙の期日前投票所をcsvファイル化し、glideappにてビジュアル化しました。
+    <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
+    <a href="https://melted-air-8304.glideapp.io/">glide app</a>
  - 5374.jp ゴミ出しカレンダー
    
   石川県金沢市で活動されているCode for Kanazawaのプロジェクト「5374.jp」を柏市と我孫子市版のローカライズ版を作成しました。
