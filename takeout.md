@@ -1,19 +1,20 @@
 ![Takeout_logo](img/icon_logo_feature.png)
 
-# テイクアウトマップ 柏
+# テイクアウトマップ 柏 (終了)
 
 ## About this project
+(終了)このプロジェクトは終了しました
+-----
 このプロジェクトは、新型コロナウイルスによる飲食店支援プロジェクトとして、CfK設立に先だって開始されました。店舗オーナーもしくはスタッフが申し込みを行う形で情報を提供しています。現在は最新の情報に更新しやすいように改良を加えています。
 
 ## スマホアプリ
-[WEB App]:https://www.google.com/maps/d/u/0/viewer?mid=1ljrSC5fKslSqmQ3aou48ES9obRUx27vN&ll=35.861888741803305%2C139.97377189419592&z=13
-### <a href="https://apps.apple.com/jp/app/%E3%83%86%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E6%9F%8F/id1507544038">iOS App</a>
+### <a href="#">iOS App</a>
 ### Android App
 
-### <a href="https://takeout-kashiwa.glideapp.io">WEBアプリ</a>
+### <a href="#">WEBアプリ</a>
 
 ## Google マイマップ 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ljrSC5fKslSqmQ3aou48ES9obRUx27vN" width="100%" height="600"></iframe>
+
 <!-- -->
 
 ## 店舗登録

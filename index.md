@@ -27,6 +27,11 @@
 <tr><td  style="20%"><a href="5374"> <img src="img/ogp.png"></a></td></tr>
 </table>
 ## New Column
+ - 市議会議員議会質問ワードクラウド
+ 
+ 柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
+ ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
+
  - 第21回千葉県知事選挙期日前投票所MAP in 柏
 
     千葉県知事選挙の期日前投票所をcsvファイル化し、glideappにてビジュアル化しました。
@@ -42,17 +47,17 @@
   
   <a href="https://code4ka.github.io/5374/">我孫子市版</a>
   
- - Twitter 新規陽性者お知らせ
+ - Twitter 新規陽性者お知らせ (終了)
   
   Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
   <a href="https://twitter.com/code4kashiwa">@code4kashiwa</a>
   
- - LINE 新規陽性者お知らせ
+ - LINE 新規陽性者お知らせ (終了)
  
   新規陽性者の情報が出たときにLINEチャットボットでお知らせします (現在登録者が増加し、無料枠を超えてしまい、通知ができない状況になっています。Twitterをご利用ください。)
-  <a href="https://line.me/R/ti/p/%40336cfsja?fbclid=IwAR09NRHB3b8V4Os7SQ5HIpl4eoWcx-aU_2rXz8i9ga7m6gYEnF4J0-juWoI&h=AT0Z5mzyayHxGY0jmOSI57JRnxXUD0D4mJkBd9NwE-XQEH1g5hqYOZUg1i4jBq3bWvXKpt_ugGA64Ceo-X97rsaNGL0FOs3ILUNy_soYajYCYpqOQH5MREQ1OwfyVcewiuhmYAdlXNdCvdEIoLgzhdS7CZRio1WRWA">ここから登録</a>
+
    
- - 「接触確認アプリ」普及活動
+ - 「接触確認アプリ」普及活動 (終了)
  
   新型コロナウイルス感染拡大を防ぐために、厚生労働省がリリースした「接触確認アプリ」の普及を推進しています。こちらの画像を印刷して掲示のご協力をお願いいたします。
   
