@@ -23,21 +23,22 @@
 ## Our Project
 
 <table>
-<tr><td style="20%"> <a href="covid19"> <img src="img/bot.png"></a></td><td> <a href="takeout"> <img src="img/icon_logo_feature.png"> </a> </td></tr>
-<tr><td  style="20%"><a href="5374"> <img src="img/ogp.png"></a></td></tr>
+<tr><td style="20%"><a href="kswh-map"> <img src="img/kashiwanoha_map.png"> </a></td>
+<td> <a href="takeout"> <img src="img/icon_logo_feature.png"> </a> </td></tr>
+<tr>
+<td style="20%"><a href="5374"> <img src="img/ogp.png"></a></td>
+<td style="20%"><a href="covid19"> <img src="img/bot.png"></a></td></tr>
 </table>
 ## New Column
  - 柏の葉シビックマップ
-![kswh-map](kswh-map)
+    <a href="covid19">専用ページ</a>
  - 市議会議員議会質問ワードクラウド
- 
  柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
  ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
 
  - 第21回千葉県知事選挙期日前投票所MAP in 柏
 
-    千葉県知事選挙の期日前投票所をcsvファイル化し、glideappにてビジュアル化しました。
-    
+    柏市市長選挙の期日前投票所のデータをcsvファイル化し、glideappにてビジュアル化しました。
     <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
     
     <a href="https://melted-air-8304.glideapp.io/">glide app</a>
