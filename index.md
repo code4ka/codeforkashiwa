@@ -31,7 +31,7 @@
 </table>
 ## New Column
  - 柏の葉シビックマップ
-    <a href="covid19">専用ページ</a>
+    <a href="kswh-map">専用ページ</a>
  - 市議会議員議会質問ワードクラウド
  柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
  ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
