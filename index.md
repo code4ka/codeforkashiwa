@@ -30,6 +30,10 @@
 <td style="20%"><a href="covid19"> <img src="img/bot.png"></a></td></tr>
 </table>
 ## New Column
+ - シビックテックイベント「スマホでまちづくり」
+ ノーコードアプリ作成ワークショップ資料
+ 
+ <a href ="https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p">https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p</a>
  - 柏の葉シビックマップ
     <a href="kswh-map">専用ページ</a>
  - 市議会議員議会質問ワードクラウド
