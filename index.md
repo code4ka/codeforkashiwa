@@ -34,8 +34,11 @@
  ノーコードアプリ作成ワークショップ資料
  
  <a href ="https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p">https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p</a>
+ 
  - 柏の葉シビックマップ
+    
     <a href="kswh-map">専用ページ</a>
+ 
  - 市議会議員議会質問ワードクラウド
  柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
  ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
