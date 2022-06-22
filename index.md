@@ -22,54 +22,60 @@
 
 ## Our Project
 
-<table>
-<tr><td style="20%"><a href="kswh-map"> <img src="img/kashiwanoha_map.png"> </a></td>
-<td> <a href="takeout"> <img src="img/icon_logo_feature.png"> </a> </td></tr>
-<tr>
-<td style="20%"><a href="5374"> <img src="img/ogp.png"></a></td>
-<td style="20%"><a href="covid19"> <img src="img/bot.png"></a></td></tr>
+<table></table>
+<tr><td><a href="kswh-map"> <img width="150px" src="img/kashiwanoha_map.png"> </a></td>
+
+<td><a href="5374"> <img width="150px" src="img/ogp.png"></a></td></tr>
 </table>
+
 ## New Column
- - シビックテックイベント「スマホでまちづくり」
+
+### シビックテックイベント「スマホでまちづくり」
+ 
  ノーコードアプリ作成ワークショップ資料
  
- <a href ="https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p">https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p</a>
+<a href ="https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p">https://docs.google.com/presentation/d/1lkCgQgQgw2BmkosIrrnOIItLjcsegBmXGxlGd2BvxaE/edit#slide=id.p</a>
  
- - 柏の葉シビックマップ
-    
-    <a href="kswh-map">専用ページ</a>
- 
- - 市議会議員議会質問ワードクラウド
+### 柏の葉シビックマップ
+<a href="kswh-map">専用ページ</a> 
+
+### 市議会議員議会質問ワードクラウド
+
  柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
  ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
 
- - 第21回千葉県知事選挙期日前投票所MAP in 柏
+### 第21回千葉県知事選挙期日前投票所MAP in 柏
 
-    柏市市長選挙の期日前投票所のデータをcsvファイル化し、glideappにてビジュアル化しました。
-    <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
-    
-    <a href="https://melted-air-8304.glideapp.io/">glide app</a>
- - 5374.jp ゴミ出しカレンダー
+柏市市長選挙の期日前投票所のデータをcsvファイル化し、glideappにてビジュアル化しました。
    
-  石川県金沢市で活動されているCode for Kanazawaのプロジェクト「5374.jp」を柏市と我孫子市版のローカライズ版を作成しました。
+   【オープンデータ】
+   <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
+
+   【アプリ】
+   <a href="https://melted-air-8304.glideapp.io/">glide app</a>
+
+### 5374.jp ゴミ出しカレンダー
+   
+石川県金沢市で活動されているCode for Kanazawaのプロジェクト「5374.jp」を柏市と我孫子市版のローカライズ版を作成しました。
   
-  <a href="https://code4ka.github.io/5374.ksw/">柏市版</a>
-  
-  <a href="https://code4ka.github.io/5374/">我孫子市版</a>
-  
+   <a href="https://code4ka.github.io/5374.ksw/">柏市版</a>
+
+   <a href="https://code4ka.github.io/5374/">我孫子市版</a>
+
+## 活動・提供を終了したもの  
  - Twitter 新規陽性者お知らせ (終了)
   
-  Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
-  <a href="https://twitter.com/code4kashiwa">@code4kashiwa</a>
+Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
+<a href="https://twitter.com/code4kashiwa">@code4kashiwa</a>
   
  - LINE 新規陽性者お知らせ (終了)
  
-  新規陽性者の情報が出たときにLINEチャットボットでお知らせします (現在登録者が増加し、無料枠を超えてしまい、通知ができない状況になっています。Twitterをご利用ください。)
+新規陽性者の情報が出たときにLINEチャットボットでお知らせします (現在登録者が増加し、無料枠を超えてしまい、通知ができない状況になっています。Twitterをご利用ください。)
 
    
  - 「接触確認アプリ」普及活動 (終了)
  
-  新型コロナウイルス感染拡大を防ぐために、厚生労働省がリリースした「接触確認アプリ」の普及を推進しています。こちらの画像を印刷して掲示のご協力をお願いいたします。
+新型コロナウイルス感染拡大を防ぐために、厚生労働省がリリースした「接触確認アプリ」の普及を推進しています。こちらの画像を印刷して掲示のご協力をお願いいたします。
   
   
   <a href="img/cocoa_001.jpg"><img src="img/cocoa_001.jpg" width="300px" /></a>
@@ -82,4 +88,4 @@
 
 
 プログラムができる方、デザインができる方、技術がわからなくても自分の生活をITで良くしたい方、地域とのパイプが太い方
-全ての皆さんの力をフル活用して、柏の先進ギアを作りましょう！
+全ての皆さんの力をフル活用して、柏をより住みやすい街にしましょう！
