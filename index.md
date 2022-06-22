@@ -22,7 +22,7 @@
 
 ## Our Project
 
-<table></table>
+<table>
 <tr><td><a href="kswh-map"> <img width="150px" src="img/kashiwanoha_map.png"> </a></td>
 
 <td><a href="5374"> <img width="150px" src="img/ogp.png"></a></td></tr>
