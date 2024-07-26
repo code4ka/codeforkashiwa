@@ -44,16 +44,6 @@
  柏市議会の議員質問をメンバーがワードクラウドで閲覧できるようにしました。
  ページは<a href="https://gikaitsushincom-8mprbb1nn.vercel.app">こちら</a>
 
-### 第21回千葉県知事選挙期日前投票所MAP in 柏
-
-柏市市長選挙の期日前投票所のデータをcsvファイル化し、glideappにてビジュアル化しました。
-   
-   【オープンデータ】
-   <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
-
-   【アプリ】
-   <a href="https://melted-air-8304.glideapp.io/">glide app</a>
-
 ### 5374.jp ゴミ出しカレンダー
    
 石川県金沢市で活動されているCode for Kanazawaのプロジェクト「5374.jp」を柏市と我孫子市版のローカライズ版を作成しました。
@@ -62,7 +52,14 @@
 
    <a href="https://code4ka.github.io/5374/">我孫子市版</a>
 
-## 活動・提供を終了したもの  
+## 活動・提供を終了したもの
+ - 第21回千葉県知事選挙期日前投票所MAP in 柏
+柏市市長選挙の期日前投票所のデータをcsvファイル化し、glideappにてビジュアル化しました。   
+   【オープンデータ】
+   <a href="https://github.com/code4ka/2021_chiba_governor_election_polling_place_kashiwa/blob/main/2021_chiba_governor_election_polling_place_kashiwa_b.csv">2021_chiba_governor_election_polling_place_kashiwa_b.csv</a>
+
+   【アプリ】
+   <a href="https://melted-air-8304.glideapp.io/">glide app</a>
  - Twitter 新規陽性者お知らせ (終了)
   
 Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者を自動ツイートしています。
@@ -84,7 +81,7 @@ Code for KashiwaのTwitterアカウントで、新型コロナの新規陽性者
 ## 参加者募集
 基本はslackで、コミュニケーションをとって進めています。たまに意識合わせやディスカッションのためにビデオ会議もすることがあります。
 
-<a href="https://join.slack.com/t/code-for-kashiwa/shared_invite/zt-ftmrycdw-kK_tkHnzoITUpkMYsvhwMg">slack 参加申し込み</a>
+<a href="https://join.slack.com/t/code-for-kashiwa/shared_invite/zt-2nhisna2r-53va7zCw1u2j53Jnu4zfVA">slack 参加申し込み</a>
 
 
 プログラムができる方、デザインができる方、技術がわからなくても自分の生活をITで良くしたい方、地域とのパイプが太い方
